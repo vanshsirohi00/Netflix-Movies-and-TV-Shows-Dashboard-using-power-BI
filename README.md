@@ -26,5 +26,5 @@ To explore the dashboard:
 4. Interact with the dashboard.
 
 ## Contact
+LinkedIn:linkedin.com/in/vanshsirohi00
 
-For inquiries and collaborations, feel free to reach out to sdeminhaj@gmail.com.
