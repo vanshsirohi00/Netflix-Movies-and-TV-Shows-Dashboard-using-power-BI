@@ -4,9 +4,7 @@
 
 This project presents an interactive Power BI dashboard focused on Netflix's extensive library of movies and TV shows. With over 8000+ titles available on their platform, the dashboard offers insights into key details such as cast, directors, ratings, release year, and duration. 
 
-## Preview
 
-![Netflix Movies and TV Shows Dashboard Preview](https://github.com/minhaj-313/Netflix-Movies-and-TV-Shows-Dashboard/blob/main/Netflix%20Movies%20and%20TV%20Shows%20Dashboard%20-%20by%20Shaikh%20Minhaj.png)
 
 ## About this Dataset
 
